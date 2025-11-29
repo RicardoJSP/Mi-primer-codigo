@@ -24,3 +24,6 @@ print("El valor de la multiplicacion es: ", multiplicacion)
 # Paso final, pasamos en limpio a la ecuacion:
 x = -b + potencia1 - multiplicacion - potencia2
 print("El resultado de la ecuacion es: ", x)
+
+
+print("asdasdasda")
